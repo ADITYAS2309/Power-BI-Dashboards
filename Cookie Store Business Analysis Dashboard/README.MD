@@ -1,0 +1,2 @@
+Extracted various business insights for a small cookie business to help it make decisions to expand and scale up.
+Sales/Revenue Trends, Cookie Categories Performance, Customer Spending Patterns and Demographics, Order Size Distributions are some of the insights which can be obtained.
