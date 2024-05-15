@@ -18,6 +18,6 @@ The primary objective of this project is to analyze sales performance, understan
 - **Operational Efficiency**: Identify areas for improvement in resource allocation and operational processes to enhance efficiency.
 
 
-
+![Adidas](https://github.com/ADITYAS2309/Power-BI-Dashboards/assets/164273986/64e9ca64-0084-46a3-8827-3127efb2b3a5)
 
 
