@@ -1,3 +1,15 @@
+# Overview
+
+The aim is to analyze key factors affecting the cookie business.
+
+# Procedure
+
+- Utilized Power Query Editor to transfrom data and create star schema. Estabilished relations between different queries.
+
+- Used DAX to create various measures for creating visualizations on the dashboard.
+
+
+# Key Insights
 Extracted various business insights for a small cookie business to help it make decisions to expand and scale up. Following insights can be obtained:
 
 
